@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PRM391x_Project_4_anhlvse00534x@funix.edu.vn</string>
+    <!--Strings announcement-->
+    <string name="announcement_add_account_complete">Successfully registered!</string>
+    <string name="announcement_account_registered">Already registered!</string>
+    <!--Strings related to action-->
+    <string name="action_sign_up_short">Sign up</string>
+    <string name="action_log_out">Log out</string>
+    <string name="action_history">History</string>
+    <string name="action_transfer_to_sign_in">Sign in, please click here!</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_transfer_to_sign_up">Sign up, please click here!</string>
+    <!--Strings error-->
+    <string name="error_invalid_account">Account invalid!</string>
+    <string name="error_incorrect_password_or_username">Sorry, your username and password are incorrect. Please try again!</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_password_not_same">The passwords you entered do not match!</string>
+    <string name="error_user_name_short">User name is too short!</string>
+    <string name="error_password_short">PassWord is too short!</string>
+    <string name="error_information">Please check your information!</string>
+    <string name="error_play_video">Can not play video !</string>
+    <string name="error_sign_in">Error sign in !</string>
+    <string name="error_internet">Please, check your network connection!</string>
+    <string name="error_user_contain_whitespace">Please make sure that your UserName is not contain whiteSpace!</string>
+    <string name="error_password_contain_whitespace">Please remove whiteSpace in your password!</string>
+    <string name="error_password">The password you\'ve entered is incorrect. Please try again.</string>
+    <!--Strings hint and description-->
+    <string name="thumbnail_view">thumbnail view</string>
+    <string name="hint_user_name">User Name</string>
+    <string name="hint_password">PassWord</string>
+    <string name="hint_confirm_password">Confirm PassWord</string>
+    <string name="hint_sign_in_by_google">Please click google icon to sign in, this is for userName only !</string>
+    <string name="hint_click_sign_in">Please click "Sign in, please click here" then sign in with google account!</string>
+    <string name="action_search">Search</string>
+    <string name="user_name_exist">UserName\'s registered, please use another one!</string>
+    <string name="hint_password_pattern">Password require 2 letters in Upper Case, 1 Special Character , 2 numerals, 3 letters in Lower Case and more than 8 characters!</string>
+    <string name="description_logo">logo</string>
+    <string name="search">Search</string>
+    <string name="announcement_nothing_to_show">No video\'s  found to show!</string>
+    <string name="hint_search">Enter your KeyWord!</string>
+
+
+</resources>

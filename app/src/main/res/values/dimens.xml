@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="content_sign_margin">15dp</dimen>
+    <dimen name="edit_first_margin_top">60dp</dimen>
+    <dimen name="dimen_button_width">150dp</dimen>
+
+    <!--screen constrain layout-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="action_sign_in">8dp</dimen>
+    <dimen name="tool_bar">48dp</dimen>
+
+</resources>
