@@ -23,7 +23,7 @@ and Android build tools from the Android SDK Manager.
 
 * After building finish, you can run by click on run icon or on the tab bar click on 
 run 'app' (may instead: Ctrl + F5)
-* You can also copy file [app-debug.apk](https://github.com/leanh153/Youtube/blob/master/app-debug.apk) in project to
+* You can also copy file [app-debug.apk](https://github.com/leanh153/Youtube/raw/master/app-debug.apk) in project to
  your android phone to [run app (video)](https://www.youtube.com/watch?v=p8_zUF5zCkA) this require android 5.1 and upper.
 
 
